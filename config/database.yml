@@ -83,3 +83,5 @@ production:
   database: linebot-wiki_production
   username: linebot-wiki
   password: <%= ENV['LINEBOT-WIKI_DATABASE_PASSWORD'] %>
+
+
